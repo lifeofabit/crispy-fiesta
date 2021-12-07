@@ -1,3 +1,3 @@
 Our first major solution!
 
-Edited for feature1
+Feature 1
