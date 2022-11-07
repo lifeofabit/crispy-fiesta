@@ -4,7 +4,6 @@ Hey, we messed something up and are now fixing it!
 
 Edited for feature1
 
-Add your new code.
-Add some more new code\
+Bad code, bad code
 
-All the code is here now.
+More coding, for fun
